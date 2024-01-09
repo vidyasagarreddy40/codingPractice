@@ -15,5 +15,7 @@ public class Demo {
         FInterface fInterface=String::length;
        int i= fInterface.getLength("vidyasagar");
        System.out.println(i);
+
+       
     }
 }
