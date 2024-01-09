@@ -16,6 +16,13 @@ public class Demo {
        int i= fInterface.getLength("vidyasagar");
        System.out.println(i);
 
+       System.out.println(i);
+
+
+
+
+
+
        
     }
 }
